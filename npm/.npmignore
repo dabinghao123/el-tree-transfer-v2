@@ -1,0 +1,11 @@
+    .*  
+    *.md  
+    *.yml  
+    build/  
+    node_modules/  
+    lib/  
+    test/  
+    yarn.lock
+    webpack.config.js
+    .babelrc
+    transfer-extend-next/
