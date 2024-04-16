@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hql7/tree-transfer.git"
+    "url": "git+https://github.com/dabinghao123/el-tree-transfer-v2.git"
   },
   "keywords": [
     "tree-transfer",
@@ -24,15 +24,14 @@
     "vuecli3",
     "穿梭框",
     "树形穿梭框",
-    "通讯录",
-    "邮件通讯录"
+    "虚拟列表"
   ],
-  "author": "weilan",
+  "author": "macbing",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hql7/tree-transfer/issues"
+    "url": "https://github.com/dabinghao123/el-tree-transfer-v2/issues"
   },
-  "homepage": "https://github.com/hql7/tree-transfer#readme",
+  "homepage": "https://github.com/dabinghao123/el-tree-transfer-v2#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
